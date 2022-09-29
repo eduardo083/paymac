@@ -1,2 +1,2 @@
-# paymac
+# PAyMAC
 track or waypoint
